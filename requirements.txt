@@ -9,7 +9,7 @@ decorator==4.4.2
 Flask==1.1.2
 idna
 ipykernel==5.3.4
-ipython==7.18.1
+ipython
 ipython-genutils==0.2.0
 isort==5.5.4
 itsdangerous==1.1.0
